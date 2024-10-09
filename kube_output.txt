@@ -1,0 +1,4 @@
+NAME                                          READY   STATUS             RESTARTS      AGE
+text-processing-job-8tbgm                     0/1     Completed          0             76s
+text-processing-job-966dv                     0/1     Completed          0             76s
+text-processing-job-rss6n                     0/1     Completed          0             76s
